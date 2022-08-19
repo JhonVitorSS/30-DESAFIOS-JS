@@ -1,0 +1,1 @@
+Estrutura de Repetição para Calcular Média com uma Função que Pode Receber Parâmetros Infinitos.
